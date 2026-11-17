@@ -9,7 +9,9 @@ I care what happens after software ships: whether systems stay connected, people
 ## Selected work
 
 - **[Poko](https://github.com/tylercyert/poko)** — An adaptive learning app built with Expo and TypeScript. Wildcard Segment winner at Indy Init 2026.
-- **[DotBox](https://dotbox.zip/app)** — A visual tool for designing AI agent teams. The current demo is live; a redesigned workspace is in progress.
+- **[DotBox](https://dotbox.zip/)** — A live visual workspace for designing AI agent teams and generating setup prompts. [Open the workspace](https://app.dotbox.zip/).
 - **[Portfolio](https://www.tylercyert.com/)** — More about the internal products, integrations, and systems I build.
+
+I'm interested in senior software, integration, and internal product roles where ownership and reliable delivery matter.
 
 [LinkedIn](https://www.linkedin.com/in/tyler-cyert/) · [Website](https://www.tylercyert.com/)

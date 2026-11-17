@@ -12,6 +12,4 @@ I care what happens after software ships: whether systems stay connected, people
 - **[DotBox](https://dotbox.zip/app)** — A visual tool for designing AI agent teams. The current demo is live; a redesigned workspace is in progress.
 - **[Portfolio](https://www.tylercyert.com/)** — More about the internal products, integrations, and systems I build.
 
-I'm interested in senior software, integration, and internal product roles where ownership and reliable delivery matter.
-
 [LinkedIn](https://www.linkedin.com/in/tyler-cyert/) · [Website](https://www.tylercyert.com/)

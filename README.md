@@ -14,7 +14,7 @@ By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM 
 </td></tr>
 <tr><td>
 
-<img src="assets/projects.webp" alt="Screenshots of Small Pages, Chapterwise, Driftwood, FocusTones, Poko and DotBox">
+<img src="assets/apps.webp" alt="Screenshots of Small Pages, Chapterwise, Driftwood, FocusTones, Poko and DotBox">
 
 </td></tr>
 <tr><td>

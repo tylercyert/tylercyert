@@ -1,7 +1,7 @@
 <table>
 <tr><td>
 
-### 👋 Hey, I'm Tyler. I build business backbones.
+### 👋 Hey, I'm Tyler. I close the loop in enterprise AI.
 
 Integration and AI platform engineer in Bloomington, Indiana. By day I connect ERP, CRM and e-commerce systems and ship production AI agents with MCP tooling. After hours I build apps.
 

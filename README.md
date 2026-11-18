@@ -5,7 +5,7 @@
 
 I like building things, designing products, and working with agentic coding.
 
-By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM and e-commerce systems and putting AI agents into production. After hours I make small iPhone apps.
+By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM and e-commerce systems and putting AI agents into production. Outside of work I design and build my own iOS apps.
 
 <a href="https://www.tylercyert.com/"><img src="https://img.shields.io/badge/tylercyert.com-161b22?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/tyler-cyert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -20,7 +20,7 @@ By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM 
 <tr><td>
 
 **things i've built**<br>
-<img src="assets/small-pages-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/small-pages/"><b>Small Pages</b></a> · <img src="assets/chapterwise-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/chapterwise/"><b>Chapterwise</b></a> · <img src="assets/driftwood-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/driftwood/"><b>Driftwood</b></a> · <img src="assets/focustones-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/focustones/"><b>FocusTones</b></a><br>quiet iPhone apps from <a href="https://apps.tyl.sh/">Tyl Softworks</a><br>
+<img src="assets/small-pages-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/small-pages/"><b>Small Pages</b></a> · <img src="assets/chapterwise-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/chapterwise/"><b>Chapterwise</b></a> · <img src="assets/driftwood-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/driftwood/"><b>Driftwood</b></a> · <img src="assets/focustones-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/focustones/"><b>FocusTones</b></a><br>iOS apps I design and build under <a href="https://apps.tyl.sh/">Tyl Softworks</a><br>
 <a href="https://github.com/tylercyert/poko"><b>Poko</b></a> · adaptive learning app, Wildcard Segment winner at Indy Init 2026<br>
 <a href="https://dotbox.zip/"><b>DotBox</b></a> · design AI agent teams on a canvas, then generate their setup prompts<br>
 

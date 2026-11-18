@@ -1,9 +1,11 @@
 <table>
 <tr><td>
 
-### 👋 Hey, I'm Tyler. I close the loop in enterprise AI.
+### Hey, I'm Tyler 👋
 
-Integration and AI platform engineer in Bloomington, Indiana. By day I connect ERP, CRM and e-commerce systems and ship production AI agents with MCP tooling. After hours I build apps.
+I like building things, designing products, and working with agentic coding.
+
+By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM and e-commerce systems and putting AI agents into production. After hours I make small iPhone apps.
 
 <a href="https://www.tylercyert.com/"><img src="https://img.shields.io/badge/tylercyert.com-161b22?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/tyler-cyert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

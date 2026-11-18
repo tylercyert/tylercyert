@@ -14,15 +14,22 @@ By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM 
 </td></tr>
 <tr><td>
 
-<img src="assets/apps.webp" alt="Screenshots of Small Pages, Chapterwise, Driftwood, FocusTones, Poko and DotBox">
+**things i've built** · iOS apps under <a href="https://apps.tyl.sh/">Tyl Softworks</a>, plus a couple of side projects
 
-</td></tr>
-<tr><td>
-
-**things i've built**<br>
-<img src="assets/small-pages-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/small-pages/"><b>Small Pages</b></a> · <img src="assets/chapterwise-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/chapterwise/"><b>Chapterwise</b></a> · <img src="assets/driftwood-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/driftwood/"><b>Driftwood</b></a> · <img src="assets/focustones-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/focustones/"><b>FocusTones</b></a><br>iOS apps I design and build under <a href="https://apps.tyl.sh/">Tyl Softworks</a><br>
-<a href="https://github.com/tylercyert/poko"><b>Poko</b></a> · adaptive learning app, Wildcard Segment winner at Indy Init 2026<br>
-<a href="https://dotbox.zip/"><b>DotBox</b></a> · design AI agent teams on a canvas, then generate their setup prompts<br>
+<table>
+<tr>
+<td width="50%"><a href="https://apps.tyl.sh/small-pages/"><img src="assets/small-pages.webp" alt="Small Pages"></a></td>
+<td width="50%"><a href="https://apps.tyl.sh/chapterwise/"><img src="assets/chapterwise.webp" alt="Chapterwise"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://apps.tyl.sh/driftwood/"><img src="assets/driftwood.webp" alt="Driftwood"></a></td>
+<td width="50%"><a href="https://apps.tyl.sh/focustones/"><img src="assets/focustones.webp" alt="FocusTones"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/tylercyert/poko"><img src="assets/poko.webp" alt="Poko"></a></td>
+<td width="50%"><a href="https://dotbox.zip/"><img src="assets/dotbox.webp" alt="DotBox"></a></td>
+</tr>
+</table>
 
 </td></tr>
 <tr><td>

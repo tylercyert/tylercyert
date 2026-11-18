@@ -12,16 +12,15 @@ Integration and AI platform engineer in Bloomington, Indiana. By day I connect E
 </td></tr>
 <tr><td>
 
-<img src="assets/projects.webp" alt="Screenshots of DotBox, nitesong, Poko, Small Pages, Chapterwise, Driftwood and FocusTones">
+<img src="assets/projects.webp" alt="Screenshots of Small Pages, Chapterwise, Driftwood, FocusTones, Poko and DotBox">
 
 </td></tr>
 <tr><td>
 
 **things i've built**<br>
-<a href="https://dotbox.zip/"><b>DotBox</b></a> · design AI agent teams on a canvas, then generate their setup prompts<br>
-<a href="https://nitesong.io/"><b>nitesong</b></a> · a songwriting suite, built and run end to end<br>
+<img src="assets/small-pages-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/small-pages/"><b>Small Pages</b></a> · <img src="assets/chapterwise-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/chapterwise/"><b>Chapterwise</b></a> · <img src="assets/driftwood-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/driftwood/"><b>Driftwood</b></a> · <img src="assets/focustones-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/focustones/"><b>FocusTones</b></a><br>quiet iPhone apps from <a href="https://apps.tyl.sh/">Tyl Softworks</a><br>
 <a href="https://github.com/tylercyert/poko"><b>Poko</b></a> · adaptive learning app, Wildcard Segment winner at Indy Init 2026<br>
-<img src="assets/small-pages-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/small-pages/"><b>Small Pages</b></a> · <img src="assets/chapterwise-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/chapterwise/"><b>Chapterwise</b></a> · <img src="assets/driftwood-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/driftwood/"><b>Driftwood</b></a> · <img src="assets/focustones-icon.png" width="16" height="16" alt=""> <a href="https://apps.tyl.sh/focustones/"><b>FocusTones</b></a> · quiet iPhone apps from <a href="https://apps.tyl.sh/">Tyl Softworks</a>
+<a href="https://dotbox.zip/"><b>DotBox</b></a> · design AI agent teams on a canvas, then generate their setup prompts<br>
 
 </td></tr>
 <tr><td>

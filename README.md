@@ -16,20 +16,18 @@ By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM 
 
 **things i've built** · iOS apps under <a href="https://apps.tyl.sh/">Tyl Softworks</a>, plus a couple of side projects
 
-<table>
-<tr>
-<td width="50%"><a href="https://apps.tyl.sh/small-pages/"><img src="assets/small-pages.webp" width="100%" alt="Small Pages"></a></td>
-<td width="50%"><a href="https://apps.tyl.sh/chapterwise/"><img src="assets/chapterwise.webp" width="100%" alt="Chapterwise"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://apps.tyl.sh/driftwood/"><img src="assets/driftwood.webp" width="100%" alt="Driftwood"></a></td>
-<td width="50%"><a href="https://apps.tyl.sh/focustones/"><img src="assets/focustones.webp" width="100%" alt="FocusTones"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/tylercyert/poko"><img src="assets/poko.webp" width="100%" alt="Poko"></a></td>
-<td width="50%"><a href="https://dotbox.zip/"><img src="assets/dotbox.webp" width="100%" alt="DotBox"></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://apps.tyl.sh/small-pages/"><img src="assets/small-pages.webp" width="49%" alt="Small Pages"></a>
+<a href="https://apps.tyl.sh/chapterwise/"><img src="assets/chapterwise.webp" width="49%" alt="Chapterwise"></a>
+</p>
+<p align="center">
+<a href="https://apps.tyl.sh/driftwood/"><img src="assets/driftwood.webp" width="49%" alt="Driftwood"></a>
+<a href="https://apps.tyl.sh/focustones/"><img src="assets/focustones.webp" width="49%" alt="FocusTones"></a>
+</p>
+<p align="center">
+<a href="https://github.com/tylercyert/poko"><img src="assets/poko.webp" width="49%" alt="Poko"></a>
+<a href="https://dotbox.zip/"><img src="assets/dotbox.webp" width="49%" alt="DotBox"></a>
+</p>
 
 </td></tr>
 <tr><td>

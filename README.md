@@ -18,16 +18,16 @@ By day I'm an integration engineer in Bloomington, Indiana, connecting ERP, CRM 
 
 <table>
 <tr>
-<td width="50%"><a href="https://apps.tyl.sh/small-pages/"><img src="assets/small-pages.webp" alt="Small Pages"></a></td>
-<td width="50%"><a href="https://apps.tyl.sh/chapterwise/"><img src="assets/chapterwise.webp" alt="Chapterwise"></a></td>
+<td width="50%"><a href="https://apps.tyl.sh/small-pages/"><img src="assets/small-pages.webp" width="100%" alt="Small Pages"></a></td>
+<td width="50%"><a href="https://apps.tyl.sh/chapterwise/"><img src="assets/chapterwise.webp" width="100%" alt="Chapterwise"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://apps.tyl.sh/driftwood/"><img src="assets/driftwood.webp" alt="Driftwood"></a></td>
-<td width="50%"><a href="https://apps.tyl.sh/focustones/"><img src="assets/focustones.webp" alt="FocusTones"></a></td>
+<td width="50%"><a href="https://apps.tyl.sh/driftwood/"><img src="assets/driftwood.webp" width="100%" alt="Driftwood"></a></td>
+<td width="50%"><a href="https://apps.tyl.sh/focustones/"><img src="assets/focustones.webp" width="100%" alt="FocusTones"></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/tylercyert/poko"><img src="assets/poko.webp" alt="Poko"></a></td>
-<td width="50%"><a href="https://dotbox.zip/"><img src="assets/dotbox.webp" alt="DotBox"></a></td>
+<td width="50%"><a href="https://github.com/tylercyert/poko"><img src="assets/poko.webp" width="100%" alt="Poko"></a></td>
+<td width="50%"><a href="https://dotbox.zip/"><img src="assets/dotbox.webp" width="100%" alt="DotBox"></a></td>
 </tr>
 </table>
 
